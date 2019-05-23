@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Solving.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Background.cs" Line="18" Column="18" />
+      <File FileName="Assets/Scripts/LevelGenerator.cs" Line="3" Column="19" />
+      <File FileName="Assets/Scripts/Solving.cs" Line="114" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
